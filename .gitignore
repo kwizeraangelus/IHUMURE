@@ -1,0 +1,7 @@
+data/
+uploads/certificates/*
+uploads/videos/*
+!uploads/certificates/.gitkeep
+!uploads/videos/.gitkeep
+.DS_Store
+Thumbs.db

@@ -1,0 +1,2 @@
+-- See sql/ihumure.sql for the full MySQL schema (all 8 tables).
+-- phpMyAdmin: create/select nothing first — the file creates database `ihumure`.
